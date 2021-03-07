@@ -62,5 +62,5 @@ Aşağıdaki görsellerde OpenPose uygulamasının öncesi ve sonrasının foto�
 Gerçek zamanlı olarak bilgisayar kamerası ile çektiğim videonun OpenPose uygulaması sonrasındaki GIF hali ise aşağıda verilmiştir. 
 
 <p align="center">
-  <img width="600" src="https://github.com/oreitor/google-hack-for-people-hackathon/blob/main/trAI.png">
+  <img width="600" src="https://github.com/oreitor/google-hack-for-people-hackathon/blob/main/oreitor.gif">
 </p>
