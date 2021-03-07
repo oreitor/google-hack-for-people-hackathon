@@ -1,6 +1,6 @@
 # Google DSC - Solution Challange Hack for People Hackathon | trAI
 
-Google DSC tarafından düzenlenen Solution Challenge Hack for People & Peace Hackathon'u için oluşturulan trAI projesi. Bu repoda trAI'ın Yapay Zeka (AI) ve Bilgisayarlı Görü (CV) teknolojileri işlenmiştir. Mobil uygulama çözümleri için buradaki repoyu inceleyebilirsiniz.
+Google DSC tarafından düzenlenen Solution Challenge Hack for People & Peace Hackathon'u için oluşturulan trAI projesi. Bu repoda trAI'ın Yapay Zeka (AI) ve Bilgisayarlı Görü (CV) teknolojileri işlenmiştir. Mobil uygulama çözümleri için [bağlantıdaki](https://github.com/iamrecan/flutter_trAI) repoyu inceleyebilirsiniz.
 
 Amacımız, Google teknolojilerini kullanarak geliştirdiğimiz trAI çözümleri ile Birleşmiş Milletilerin yayınladığı [*Sürdürülebilir Kalkınma Amaçları*](https://www.tr.undp.org/content/turkey/tr/home/sustainable-development-goals.html)'na katkı sağlamaktır. Bu proje, Sağlık ve Kaliteli Yaşam (Hedef 3) başlığı altında yer alan Bulaşıcı Olmayan Hastalıklardan Kaynaklanan Ölümlerin Azaltılması ve Ruh Sağlığının Desteklenmesi (Hedef 3.4) konusu ile ilgilidir.
 
