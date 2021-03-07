@@ -64,3 +64,17 @@ Gerçek zamanlı olarak bilgisayar kamerası ile çektiğim videonun OpenPose uy
 <p align="center">
   <img width="600" src="https://github.com/oreitor/google-hack-for-people-hackathon/blob/main/oreitor.gif">
 </p>
+
+## trAI - Flutter App
+
+#### MockUp
+<p align="center">
+  <img width="200" src="https://github.com/oreitor/google-hack-for-people-hackathon/blob/main/Flutter%20App/a.png"><span> &emsp;</span>
+  <img width="200" src="https://github.com/oreitor/google-hack-for-people-hackathon/blob/main/Flutter%20App/b.png"><span> &emsp;</span>
+  <img width="200" src="https://github.com/oreitor/google-hack-for-people-hackathon/blob/main/Flutter%20App/c.png">
+</p>
+
+#### Demo GIF
+<p align="center">
+  <img width="350" src="https://github.com/oreitor/google-hack-for-people-hackathon/blob/main/Flutter%20App/trAI-demo.gif">
+</p>
